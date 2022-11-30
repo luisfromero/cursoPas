@@ -1,11 +1,19 @@
 # Montaje y puesta en marcha de equipos informáticos
 
+Profesor: Luis Felipe Romero Gómez
+E-mail: felipe@uma.es
+CV: 
+Departamento: Arquitectura de Computadores
 Duración estimada: 15 horas, repartidas en 10 lecciones de 1h30'
 
 ## Lección 1. El hardware y el software
 
+* Hardware y Software
+* Tipos de sistemas informáticos
 * Cómo funciona un ordenador. CPU y memoria
-* El sistema operativo y el software
+* El sistema operativo
+* Linux, Windows, Android
+* Computadores clásicos y cuánticos
 
 ## Lección 2. Internet. Correo electrónico
 
@@ -14,6 +22,7 @@ Duración estimada: 15 horas, repartidas en 10 lecciones de 1h30'
 * Navegadores
 * Perfiles en navegadores
 * Sesiones, cookies
+* Internet de las cosas
 
 ## Lección 3. Montaje de ordenadores y redes locales
 
@@ -33,35 +42,37 @@ Duración estimada: 15 horas, repartidas en 10 lecciones de 1h30'
 
 * Tipos y extensiones de archivos
 * Accesos directos y asociaciones
-* Copiar, cortar, pegar
-* Imágenes. Píxeles, resolución
+* El cortapapeles: Copiar, cortar, pegar
+* Imágenes vectoriales y bitmaps
+* Píxeles, resolución
 
 
 ## Lección 6. Sistema operativo Windows
 
 * Instalación. Cuentas locales o en red
-* Servicios. Mscconfig
+* Servicios. Msconfig
 * Administrador de tareas
 
-## Lección 7. Aplicaciones básicas (1)
+## Lección 7. Aplicaciones básicas (productividad)
 
 * 7-z, Everything, Foldersizes
 * Escritorio remoto, Teamviewer
-* Winmerge, winscp, Mobaxterm
+* Winmerge, Winscp, Mobaxterm
+* Notepad++, VSCode
 
-## Lección 8. Aplicaciones básicas (2)
+## Lección 8. Aplicaciones básicas (multimedia)
 
 * Irfanview, VLC, Audacity
+* MovieMaker
 * GIMP/Inkscape
 * Canva
-* Notepad++, VSCode
 
 ## Lección 9. Conceptos elementales de programación
 
+* Markdown, Latex
 * Excel
 * Python
 * Entornos de programación
-* Markdown, Latex
 * Programación web: html, css y php
 
 ## Lección 10. Seguridad informática. Copias de seguridad. La nube
