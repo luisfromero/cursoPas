@@ -1,6 +1,7 @@
 # Montaje y puesta en marcha de equipos informáticos
 
 Profesor: Luis Felipe Romero Gómez
+<<<<<<< HEAD
 
 E-mail: felipe@uma.es
 
@@ -8,6 +9,11 @@ CV:
 
 Departamento: Arquitectura de Computadores
 
+=======
+E-mail: felipe@uma.es
+CV: 
+Departamento: Arquitectura de Computadores
+>>>>>>> a60246dfe296a692a129894a6a3d49cf2df2b35b
 Duración estimada: 15 horas, repartidas en 10 lecciones de 1h30'
 
 ## Lección 1. El hardware y el software
